@@ -1,2 +1,2 @@
-# Quiz3
-Submit file as instrcuted 
+# Quiz3 
+Submit file as instructed 
